@@ -31,6 +31,6 @@
 
 ## License
 GPL-3.0 - See LICENSE file for details
-##Bonus
+## Bonus
 - if you think open source tool development is neat, consider feeding urge ;)
 - https://buymeacoffee.com/val_ue13
