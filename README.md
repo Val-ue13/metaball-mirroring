@@ -9,7 +9,7 @@
 ## Installation
 1. Download latest release from [Releases](releases)
 2. In Blender: Edit > Preferences > Add-ons > Install
-3. Select downloaded ZIP file
+3. Select downloaded PY file
 4. Enable "Metaball Mirror Pro" addon
 
 ## Usage
@@ -19,8 +19,7 @@
 4. Enable "Real-time Mirroring" or use Create Mirror
 
 ## Keyboard Shortcuts
-- `Alt+Shift+Q`: Toggle real-time mirroring
-- `Ctrl+M`: Quick mirror creation
+- `Alt+Shift+Q`: Quick Mirroring
 
 ## Requirements
 - Blender 3.0 or later
