@@ -1,4 +1,8 @@
 # Metaball Mirror Addon for Blender
+## Notice
+- This project has been created with the use of Claud.ai, as I do not know how to program blender plugins
+- If there is janky code, consider fixing it!
+- Hoping to add more features soon
 ## Features
 - Real-time metaball mirroring across any axis
 - Performance-optimized event system
